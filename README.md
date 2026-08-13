@@ -15,7 +15,7 @@ Go from Java fundamentals → OOP → Collections → Multithreading → Spring 
 Each day gets its own folder:
 
 ```
-DayXX/
+Day01/
 ├── notes.md        → what I learned, key concepts, gotchas
 └── Practice.java    → code I wrote/ran that day
 ```
@@ -24,9 +24,9 @@ DayXX/
 
 | Day | Date | Topic | Notes |
 |-----|------|-------|-------|
-| 01  |      |       | [Day01](./Day01/notes.md) |
-| 02  |      |       | [Day02](./Day02/notes.md) |
-| 03  |      |       | [Day03](./Day03/notes.md) |
+| 01  |      |       | [Day01]|
+| 02  |      |       | [Day02] |
+| 03  |      |       | [Day03] |
 
 > Table updates daily as I go.
 
