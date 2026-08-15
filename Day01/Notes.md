@@ -3,12 +3,6 @@
 # ☕ Java Foundations — From Scratch to Advanced
 ### Topics 1–4: Core Concepts
 
-![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk)
-![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
-![Level](https://img.shields.io/badge/Level-Foundations-green)
-
-*Rebuilding Java fundamentals with interview-level depth — not just syntax, but the "why" behind it.*
-
 </div>
 
 <br>
