@@ -1,16 +1,5 @@
 import org.w3c.dom.ls.LSOutput;
 
-/*
- * PRACTICE 01: Introduction to Java
- * -----------------------------------
- * Goal: get comfortable with the compile -> run cycle and prove to yourself
- * (and any recruiter reading this file) that you understand WORA mechanically.
- *
- * Instructions: Write the code yourself below each TODO. 
- * Do not paste solutions.
- * Compile with:  javac Practice01_Introduction.java
- * Run with:      java Practice01_Introduction
- */
 public class Practice01_Introduction {
 
     public static void main(String[] args) {
